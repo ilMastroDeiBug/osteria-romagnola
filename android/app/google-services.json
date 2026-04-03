@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140292343446",
+    "project_id": "osteria-romagnola",
+    "storage_bucket": "osteria-romagnola.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140292343446:android:35c59e5b2016d9869fa4b7",
+        "android_client_info": {
+          "package_name": "com.example.osteria_romagnola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ymo_BlI-MrGOs8f573KkGwniIK5zAVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
